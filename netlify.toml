@@ -1,0 +1,7 @@
+[build]
+base = "ui"
+publish = "ui/out"
+command = "npm run build"
+
+[functions]
+directory = "ui/netlify/functions"
